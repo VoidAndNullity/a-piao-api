@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 /**
  * 启动类
  *
- * @author DengLS
+ * @author VoidAndNullity
  * @date 2023/04/24
  */
 @SpringBootApplication
